@@ -1,6 +1,6 @@
 # vault-boundary-poc
 
-This repository deploys and automates the configuration of Hashicorp Boundary and vault with Terraform.  This repository contains a PoC web server environment that is fully deployable to AWS by terraform.
+This repository deploys and automates the configuration of Hashicorp Boundary and vault with Terraform. 
 
 First of all, - **Remember to ensure that the /secrets directory is indcluded in your gitignore and that you run terraform destroy after use**.  This is an ephemeral PoC and should not be left online or used to host sensitive information.
 
